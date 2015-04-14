@@ -1,14 +1,16 @@
 //ClickRunner Created by Kyle on 10/7/2014.
 package com.pitstop.learning.event.clicklistener;
 
+import java.awt.*;
 import java.awt.event.ActionListener;
-import javax.swing.JFrame;
-import javax.swing.JButton;
+import javax.swing.*;
 
 public class ClickRunner {
     public static void main(String[] args) {
         JFrame frame = new JFrame();
-        JButton button = new JButton("Click me!");
+        ImageIcon icon = new ImageIcon("C:\\Java Workspace\\General\\src\\com\\pitstop\\learning\\Frames\\apple.png");
+        JButton button = new JButton(icon);
+        button.setPreferredSize(new Dimension(1,10));
         frame.add(button);
 
         ActionListener listener = new ClickListener();
@@ -18,6 +20,6 @@ public class ClickRunner {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
     }
-    private static final int FRAME_WIDTH = 100;
-    private static final int FRAME_HEIGHT = 60;
+    private static final int FRAME_WIDTH = 300;
+    private static final int FRAME_HEIGHT = 100;
 }
