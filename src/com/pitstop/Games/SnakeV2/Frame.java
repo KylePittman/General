@@ -2,7 +2,6 @@
 package com.pitstop.Games.SnakeV2;
 
 import com.pitstop.Games.SnakeV2.Graphics.Screen;
-import com.pitstop.Games.SnakeV2.Graphics.StatusBar;
 
 import javax.swing.*;
 import java.awt.*;
@@ -15,12 +14,11 @@ public class Frame extends JFrame{
     private static final int STAT_HEIGHT = 100;
     private static final int S_DELAY = 100;
     private Screen panel;
-    private StatusBar stat;
 
     public Frame(){
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setTitle("Frame");
-        setPreferredSize(new Dimension(S_WIDTH, STAT_HEIGHT + S_HEIGHT));
+        setPreferredSize(new Dimension(S_WIDTH + 7, STAT_HEIGHT + S_HEIGHT + 29));
         setResizable(false);
         init();
     }
@@ -29,13 +27,10 @@ public class Frame extends JFrame{
         setLayout(null);
 
         panel = new Screen(S_WIDTH,S_HEIGHT,S_DELAY);
-        stat = new StatusBar(S_WIDTH, STAT_HEIGHT, panel);
 
-        stat.setBounds(0,S_HEIGHT,S_WIDTH,STAT_HEIGHT);
         panel.setBounds(0,0,S_WIDTH,S_HEIGHT);
         panel.setFocusable(true);
 
-        add(stat);
         add(panel);
 
         pack();

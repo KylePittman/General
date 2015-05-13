@@ -2,7 +2,6 @@
 package com.pitstop.Games.SnakeV2.Graphics;
 
 import com.pitstop.Games.SnakeV2.Entities.BodyPart;
-import com.sun.xml.internal.ws.client.sei.ResponseBuilder;
 
 import javax.swing.*;
 import java.awt.*;
@@ -10,9 +9,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
-import java.text.DecimalFormat;
 import java.util.ArrayList;
-import java.util.Random;
 
 public class Screen extends JPanel implements Runnable, ActionListener{
 
@@ -96,7 +93,6 @@ public class Screen extends JPanel implements Runnable, ActionListener{
             snake.get(i).setyCoord(snake.get(i-1).getyCoord());
         }
 
-        System.out.println(change);
         change = false;
 
         if(dir == 0){
@@ -123,8 +119,6 @@ public class Screen extends JPanel implements Runnable, ActionListener{
         r = (int) (Math.random() * (HEIGHT));
         r = r - r%10;
         apple.setyCoord(r);
-        System.out.println(apple.getxCoord());
-        System.out.println(apple.getyCoord());
     }
 
     private void checkApple(){
@@ -135,11 +129,11 @@ public class Screen extends JPanel implements Runnable, ActionListener{
         }
     }
 
-    private void checkColission(){
+    private void checkCollision(){
         if(snake.size() == 0) return;
-        for (int i = snake.size()-1; i > 0; i--) {
+        for (int i = snake.size() - 1; i > 0; i--) {
 
-            if((i > 4) && (snake.get(0).getxCoord() == snake.get(i).getxCoord()) && (snake.get(0).getyCoord() == snake.get(i).getyCoord()))
+            if((snake.get(0).getxCoord() == snake.get(i).getxCoord()) && (snake.get(0).getyCoord() == snake.get(i).getyCoord()))
                 running = false;
         }
 
@@ -171,16 +165,17 @@ public class Screen extends JPanel implements Runnable, ActionListener{
         if(running) {
             checkApple();
             move();
-            checkColission();
+            checkCollision();
         }
         else{
             stop();
         }
-
-        System.out.println(running);
             repaint();
     }
 
+    public int getScore(){
+        return snake.size()-3;
+    }
     @Override
     public void actionPerformed(ActionEvent e) {
           run();
