@@ -52,10 +52,10 @@ if (psn > 0)
 {
    before = phrase.substring (psn - 1, psn).toLowerCase();
 }
-if (psn + goal.length() < phrase.length())
+if (psn + goal.size() < phrase.size())
 {
-   after = phrase.substring(psn + goal.length(),
-   psn + goal.length() + 1).toLowerCase();
+   after = phrase.substring(psn + goal.size(),
+   psn + goal.size() + 1).toLowerCase();
 }
 /* determine the values of psn, before, and after at this point
 in the method. */
@@ -135,6 +135,6 @@ the user does not care about how they perform the action.
 Read the code for getRandomResponse. Notice that it uses an array of responses.
 Exercise
 Alter the array to add four additional random responses. Notice that, because the
-getRandomResponse method uses the length attribute of the array, you do not need to change
+getRandomResponse method uses the size attribute of the array, you do not need to change
 anything else.
 Compile and run your code. You should run it until you see all of your new responses.
