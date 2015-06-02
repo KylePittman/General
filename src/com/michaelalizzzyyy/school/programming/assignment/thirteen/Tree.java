@@ -76,20 +76,24 @@ public class Tree
 				
 			else 
 			{
-				toBeDeleted = temp;
+				toBeDeleted = root;
 				temp = temp.getRight();
+					previous = getSecondFarthestLeft(temp);
 					temp = getFarthestLeft(temp);
-                    previous = getSecondFarthestLeft(temp);
-					System.out.println("temp: " + temp.getInfo() + " toBeDeleted: " + toBeDeleted.getInfo());
-                        temp2 = toBeDeleted;
-						toBeDeleted = temp;
-						temp = temp2;
-                previous.setLeft(temp);
+					System.out.println("temp: " + temp.getInfo() + " toBeDeleted: " + toBeDeleted.getInfo() + " " + previous.getInfo());
+
+						int x = toBeDeleted.getInfo();
+						toBeDeleted.setInfo(temp.getInfo());
+						temp.setInfo(x);
+						num = temp.getInfo();
+						previous.setLeft(temp.getRight());
+						//temp2 = toBeDeleted;
+						//toBeDeleted = temp;
+						//temp = temp2;
 						root = toBeDeleted;
 						System.out.println("Temp: " + temp.getInfo() + " toBeDeleted: " + toBeDeleted.getInfo());
                 System.out.println("here");
-						delete(temp.getInfo()); //issue
-
+						//delete(num); //issue
                         return;
 				
 			}
@@ -317,9 +321,12 @@ public class Tree
         boolean done = false;
         if (meh != null) {
             while (!done) {
-                if (meh.getLeft() != null && meh.getLeft().getLeft() != null)
-                    meh = meh.getLeft();
-                else {
+
+				System.out.println(meh.getInfo() + " ");
+                if (meh.getLeft() != null && meh.getLeft().getLeft() != null) {
+					meh = meh.getLeft();
+				}
+				else {
                     done = true;
                     return meh;
                 }
