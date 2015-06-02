@@ -98,6 +98,7 @@ public class Tree {
             System.out.println("Empty Tree");
             return;
         }
+
         previous = null;
         current = head.getNext();
         boolean found = false;
@@ -131,6 +132,7 @@ public class Tree {
                     replaced = true;
                 }
             }
+
             if (head.getNext().equals(current)) {
                 tempPrevious.setRight(temp.getLeft());
                 head.setNext(temp);
