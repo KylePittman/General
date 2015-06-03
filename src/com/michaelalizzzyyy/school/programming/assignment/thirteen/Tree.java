@@ -55,24 +55,16 @@ public class Tree
 		TreeNode temp = root;
 		TreeNode previous = root;
 		TreeNode toBeDeleted = root;
-		TreeNode twoKids = root;
-		TreeNode supertemp = root;
 		TreeNode temp2 = root;
 		boolean found = false;
-		boolean rootThing = false;
 		boolean thing = false;
-		boolean thing2 = false;
-		int save = 0;
-		
 		if (this.isEmpty())
 			System.out.println("Nothing to be deleted");
 		
 		if (root.getInfo() == num)
 		{
-			//toBeDeleted = temp;
 			if (root.getRight() == null && root.getLeft() == null)
-				root = null; //if tree has only root
-			//else if (toBeDeleted.getInfo() == null)
+				root = null;
 				
 			else 
 			{
@@ -80,20 +72,12 @@ public class Tree
 				temp = temp.getRight();
 					previous = getSecondFarthestLeft(temp);
 					temp = getFarthestLeft(temp);
-					System.out.println("temp: " + temp.getInfo() + " toBeDeleted: " + toBeDeleted.getInfo() + " " + previous.getInfo());
 
 						int x = toBeDeleted.getInfo();
 						toBeDeleted.setInfo(temp.getInfo());
 						temp.setInfo(x);
-						num = temp.getInfo();
 						previous.setLeft(temp.getRight());
-						//temp2 = toBeDeleted;
-						//toBeDeleted = temp;
-						//temp = temp2;
 						root = toBeDeleted;
-						System.out.println("Temp: " + temp.getInfo() + " toBeDeleted: " + toBeDeleted.getInfo());
-                System.out.println("here");
-						//delete(num); //issue
                         return;
 				
 			}
@@ -164,39 +148,17 @@ public class Tree
 				}
 				if (hasTwoChildren(temp))
 				{
-					//find right, then all the way left
-					//System.out.println("lmao");
-					toBeDeleted = temp;
-					temp = temp.getRight();
-					while (!thing)
-					{
-						if (temp.getLeft() != null)
-						{
-							previous = temp;
-							temp = temp.getLeft();
-							System.out.println("heyyyy");
-						}
-						else if (temp.getLeft() == null)
-						{
-                            toBeDeleted = temp;
-                            temp = temp.getRight();
-                            temp = getFarthestLeft(temp);
-                            previous = getSecondFarthestLeft(temp);
-                            System.out.println("temp: " + temp.getInfo() + " toBeDeleted: " + toBeDeleted.getInfo());
-                            temp2 = toBeDeleted;
-                            toBeDeleted = temp;
-                            temp = temp2;
-                            previous.setLeft(temp);
-                            root = toBeDeleted;
-                            System.out.println("Temp: " + temp.getInfo() + " toBeDeleted: " + toBeDeleted.getInfo());
-                            System.out.println("here");
-                            delete(temp.getInfo()); //issue
+                    toBeDeleted = temp;
+                    temp2 = temp.getRight();
+                    previous = getSecondFarthestLeft(temp2);
+                    temp2 = getFarthestLeft(temp2);
 
-                            return;
-						}
-					thing = false;
-					//toBeDeleted.setInfo(twoKids.getInfo());
-					}
+                    int x = toBeDeleted.getInfo();
+                    toBeDeleted.setInfo(temp2.getInfo());
+                    temp2.setInfo(x);
+                    previous.setLeft(temp2.getRight());
+                    temp = toBeDeleted;
+                    return;
 				}
 			}
 		}
@@ -322,7 +284,6 @@ public class Tree
         if (meh != null) {
             while (!done) {
 
-				System.out.println(meh.getInfo() + " ");
                 if (meh.getLeft() != null && meh.getLeft().getLeft() != null) {
 					meh = meh.getLeft();
 				}
