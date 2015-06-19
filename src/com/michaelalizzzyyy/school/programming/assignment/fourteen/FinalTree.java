@@ -19,6 +19,7 @@ public class FinalTree {
         String result = "";
 
         for (int n = 0; n < fix.length(); n++) {
+            System.out.println(result);
             String currentChar = "" + fix.charAt(n);
 
             if (isNumber(currentChar)) {
@@ -32,8 +33,12 @@ public class FinalTree {
                         if (isParenthesis(stack.peek()))
                             stack.push(currentChar);
 
-                        else if (peekPoints >= currentPoints) //Changed to else if //Changed <= to >=
-                            result += currentChar;
+                        else if (peekPoints >= currentPoints) { //Changed to else if //Changed <= to >=
+                            while(!stack.isEmpty())
+                                result += stack.pop();
+                            stack.push(currentChar);
+                            //result += currentChar;
+                        }
                         else
                             stack.push(currentChar);
 

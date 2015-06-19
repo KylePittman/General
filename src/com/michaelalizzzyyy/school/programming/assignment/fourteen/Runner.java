@@ -3,7 +3,8 @@ package com.michaelalizzzyyy.school.programming.assignment.fourteen;
 
 public class Runner {
     public static void main(String[] args) {
-        FinalTree finalTree = new FinalTree("4*(2+3)");
-        System.out.println(finalTree.postFix("4*(2+3)"));
+        String equation = "1+2*3-4^5/6";
+        FinalTree finalTree = new FinalTree(equation);
+        System.out.println(finalTree.postFix(equation));
     }
 }
