@@ -152,8 +152,10 @@ public class Screen extends JPanel implements Runnable, ActionListener{
             for (int i = 0; i < WIDTH / 10; i++) g.drawLine(i * 10, 0, i * 10, HEIGHT);
             for (int i = 0; i < HEIGHT / 10; i++) g.drawLine(0, i * 10, WIDTH, i * 10);
 
-            for (int i = 0; i < snake.size(); i++)
+            for (int i = 0; i < snake.size(); i++) {
                 g.drawImage(snake.get(i).getImg(), snake.get(i).getxCoord(), snake.get(i).getyCoord(), this);
+                System.out.println("X: " + snake.get(i).getxCoord() + ". Y: " + snake.get(i).getyCoord());
+            }
             g.drawImage(appleImg, apple.getxCoord(), apple.getyCoord(), this);
         }
         else gameOver(g);

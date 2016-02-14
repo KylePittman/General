@@ -24,52 +24,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Tree.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V2/Tree.java">
+      <file leaf-file-name="Map.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/test/Wall/Map.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="3299" max-vertical-offset="5355">
-              <caret line="211" column="112" selection-start-line="211" selection-start-column="112" selection-end-line="211" selection-end-column="112" />
-              <folding />
+            <state vertical-scroll-proportion="1.6520376" vertical-offset="0" max-vertical-offset="2125">
+              <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+              <folding>
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V2/Node.java">
+      <file leaf-file-name="Test.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/test/Wall/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="124" max-vertical-offset="1003">
-              <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwoChildNode.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V2/TwoChildNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1479">
-              <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Runner.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V2/Runner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1973" max-vertical-offset="2278">
-              <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stack.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V2/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6181818" vertical-offset="0" max-vertical-offset="2108">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
+              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1534#1535#0" expanded="true" />
+                <element signature="e#1559#1560#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,21 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/michaelalizzzyyy/school/programming/assignment/thirteen/RunTree.java" />
-        <option value="$PROJECT_DIR$/src/com/michaelalizzzyyy/school/programming/assignment/thirteen/Tree.java" />
-        <option value="$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/CharNodeStack.java" />
-        <option value="$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/CharNode.java" />
-        <option value="$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/CharStackTest.java" />
-        <option value="$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/Fixes.java" />
-        <option value="$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/CharQueue.java" />
-        <option value="$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/InfixConverter.java" />
-        <option value="$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/CharTreeNode.java" />
-        <option value="$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/CharStack.java" />
-        <option value="$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/CharTree.java" />
-        <option value="$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V1/CharTree.java" />
-        <option value="$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V2/StandardNode.java" />
-        <option value="$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V1/InfixConverter.java" />
-        <option value="$PROJECT_DIR$/src/com/michaelalizzzyyy/school/programming/assignment/fourteen/FinalNode.java" />
         <option value="$PROJECT_DIR$/src/com/cousCous/school/programming/assignment/fourteen/postFix.java" />
         <option value="$PROJECT_DIR$/src/com/cousCous/school/programming/assignment/fourteen/stringNode.java" />
         <option value="$PROJECT_DIR$/src/com/cousCous/school/programming/assignment/fourteen/RunnerClass.java" />
@@ -111,12 +81,52 @@
         <option value="$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V2/Stack.java" />
         <option value="$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V2/Tree.java" />
         <option value="$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V2/Runner.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/asdasda.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/Games2D/SnakeV2/Graphics/Screen.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/Frames/CodependentFrames/FrameMain.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/Frames/CodependentFrames/PanelOne.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/school/lab/four/one/DistanceConverter.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/Frames/GUIExample/EyesPart2.java" />
+        <option value="$PROJECT_DIR$/src/com/bri/GUIFun/Eyes.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/Frames/GUIExample/MovingEyes.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/Frames/GUIExample/ImageBackground.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/PauseButtonActionListener.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/ArrowAction.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/GameOverImage.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/Apple.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/Game.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/Snake.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/StartButtonActionListener.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/test/WriteToFile/TextFile/EditFile.java" />
+        <option value="$PROJECT_DIR$/src/com/delete.java" />
+        <option value="$PROJECT_DIR$/src/com/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/View/SnakeGameFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/JavaSnake.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Stats/highscores" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Stats/HighscoreManager.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/GameRunnable.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/ControlPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/GridPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/Frames/SwitchPanels/QuitButtonListener.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/Frames/SwitchPanels/StartButtonListener.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/Frames/SwitchPanels/ButtonListener.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/Frames/SwitchPanels/ButtonActionListener.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/Frames/SwitchPanels/StartPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/Frames/SwitchPanels/GamePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/Frames/SwitchPanels/Example/FrmChange.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/Frames/SwitchPanels/MainFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/test/WriteToFile/HighScores/HighScore.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/test/Wall/Cell.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/test/Wall/Map.java" />
+        <option value="$PROJECT_DIR$/src/com/pitstop/learning/test/Wall/Test.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="683" />
-    <option name="height" value="728" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -197,6 +207,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -236,12 +247,34 @@
               <option name="myItemId" value="pitstop" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="school" />
+              <option name="myItemId" value="General" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="General" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assignment" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pitstop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -267,19 +300,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="school" />
+              <option name="myItemId" value="learning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assignment" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fourteen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="V2" />
+              <option name="myItemId" value="Wall" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -305,57 +334,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="school" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assignment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fourteen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="V2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tree.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="General" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="General" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pitstop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="school" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assignment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fourteen" />
+              <option name="myItemId" value="learning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -381,7 +360,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="school" />
+              <option name="myItemId" value="learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frames" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -404,6 +387,18 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="pitstop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Frames" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FramePanelCombo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -427,7 +422,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -462,24 +456,24 @@
       <recent name="com.pitstop.school.lab.eight.two" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java Workspace\General\src\com\bri\GUIFun" />
       <recent name="C:\Java Workspace\General\src\com\michaelalizzzyyy\school\programming\assignment\fourteen" />
       <recent name="C:\Java Workspace\General\src\com\pitstop\learning\Frames\PanelsWorkingTogether" />
       <recent name="C:\Java Workspace\General\src\com\pitstop\school\examples\DataStructures\LinkedLists" />
       <recent name="C:\Java Workspace\General\src\com\pitstop\Games\SnakeV2\Entities" />
-      <recent name="C:\Java Workspace\General\src\com\pitstop\learning\Frames" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Java Workspace\General\src\com\pitstop\learning\SnakeAttempt\BetterSnakeWithBri\Game\Model" />
+      <recent name="C:\Java Workspace\General\src\com\pitstop\learning\SnakeAttempt\BetterSnakeWithBri\Game" />
+      <recent name="C:\Java Workspace\General\src\com\pitstop\learning\SnakeAttempt\BetterSnakeWithBri\Game\View" />
+      <recent name="C:\Java Workspace\General\src\com\pitstop\learning\Frames\GUIExample" />
       <recent name="C:\Java Workspace\General\src\com\cousCous\school\programming\assignment\fourteen" />
-      <recent name="C:\Java Workspace\General\src\com\pitstop\learning\test\WriteToFile\TextFile" />
-      <recent name="C:\Java Workspace\General\src\com\pitstop\learning\Frames\PanelsWorkingTogether" />
-      <recent name="C:\Java Workspace\General\src\com\pitstop\Games\SnakeV2\Entities" />
-      <recent name="C:\Java Workspace\General\src\com\pitstop\learning\Frames\FramePanelCombo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Runner">
-    <configuration default="false" name="CharTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Test">
+    <configuration default="false" name="JavaSnake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.pitstop.school.programming.assignment.fourteen.V1.CharTree" />
+      <option name="MAIN_CLASS_NAME" value="com.pitstop.learning.SnakeAttempt.BetterSnakeWithBri.Game.JavaSnake" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -494,9 +488,32 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.pitstop.school.programming.assignment.fourteen.V2.Tree" />
+      <option name="MAIN_CLASS_NAME" value="com.pitstop.learning.Frames.SwitchPanels.MainFrame" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="General" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FrmChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.pitstop.learning.Frames.SwitchPanels.Example.FrmChange" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -511,9 +528,9 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="CellTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.pitstop.school.programming.assignment.fourteen.V2.Runner" />
+      <option name="MAIN_CLASS_NAME" value="com.pitstop.Games2D.CellTest.CellTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -528,26 +545,9 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.michaelalizzzyyy.school.programming.assignment.fourteen.Runner" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="General" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="RunnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.cousCous.school.programming.assignment.fourteen.RunnerClass" />
+      <option name="MAIN_CLASS_NAME" value="com.pitstop.learning.test.Wall.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -728,19 +728,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CharTree" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Tree" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Runner" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Runner (1)" />
-      <item index="5" class="java.lang.String" itemvalue="Application.RunnerClass" />
+      <item index="1" class="java.lang.String" itemvalue="Application.JavaSnake" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MainFrame" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FrmChange" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CellTest" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Runner" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Runner (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RunnerClass" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Tree" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CharTree" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CellTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.JavaSnake" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MainFrame" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FrmChange" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -766,8 +766,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="683" height="728" extended-state="0" />
-    <editor active="false" />
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -785,14 +785,14 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5802099" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46688208" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6049926" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42492014" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4488189" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12755905" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -815,10 +815,10 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2672035" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27598828" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2913386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -842,7 +842,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="38" />
+      <option name="time" value="39" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -850,366 +850,390 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V1/CharNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/GUIExample/MovingEyes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="646">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state vertical-scroll-proportion="4.2897196" vertical-offset="0" max-vertical-offset="2499">
+          <caret line="116" column="0" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V1/CharStack.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bri/GUIFun/Eyes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="748">
-          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="2346">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/michaelalizzzyyy/school/programming/assignment/thirteen/RunTree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/Segment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/michaelalizzzyyy/school/programming/assignment/thirteen/Tree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/PauseButtonActionListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4706" max-vertical-offset="5100">
-          <caret line="285" column="0" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/michaelalizzzyyy/school/programming/assignment/thirteen/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/ArrowAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="867">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/michaelalizzzyyy/school/programming/assignment/thirteen/RunTree.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/awt/Window.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="935">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="17918" max-vertical-offset="67524">
+          <caret line="1126" column="7" selection-start-line="1126" selection-start-column="7" selection-end-line="1126" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/michaelalizzzyyy/school/programming/assignment/thirteen/Tree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/GameOverImage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1615" max-vertical-offset="5814">
-          <caret line="95" column="46" selection-start-line="95" selection-start-column="46" selection-end-line="95" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="986">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/michaelalizzzyyy/school/programming/assignment/thirteen/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="867">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="884">
+          <caret line="48" column="119" selection-start-line="48" selection-start-column="119" selection-end-line="48" selection-end-column="119" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/thirteen/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/test/WriteToFile/GetPathOfClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="901">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/thirteen/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2992">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/thirteen/TreeRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="191" max-vertical-offset="782">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/examples/DataStructures/LinkedLists/NodeList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="605" max-vertical-offset="1224">
-          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/twelve/StackQueueRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/lab/nineteen/two/NameGuesser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52020204" vertical-offset="1171" max-vertical-offset="1683">
-          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/lab/nineteen/two/CitySortDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="284" max-vertical-offset="680">
-          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/lab/nineteen/two/CityComparatorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3876106" vertical-offset="2" max-vertical-offset="646">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/lab/nineteen/two/CityComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67079645" vertical-offset="46" max-vertical-offset="612">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/apple.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/event/clicklistener/ClickRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="493">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/event/clicklistener/ClickListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/GUIExample/GuiApp1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.54545456" vertical-offset="522" max-vertical-offset="1088">
-          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/PanelsWorkingTogether/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7090465" vertical-offset="186" max-vertical-offset="612">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/PanelsWorkingTogether/MainPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5403423" vertical-offset="0" max-vertical-offset="476">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/thirteen/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48043478" vertical-offset="0" max-vertical-offset="920">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/thirteen/TreeRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6467391" vertical-offset="0" max-vertical-offset="920">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/michaelalizzzyyy/school/programming/assignment/thirteen/RunTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="935">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/michaelalizzzyyy/school/programming/assignment/thirteen/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53212523" vertical-offset="4471" max-vertical-offset="5100">
-          <caret line="285" column="0" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/michaelalizzzyyy/school/programming/assignment/thirteen/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08401977" vertical-offset="0" max-vertical-offset="607">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V1/CharNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+        <state vertical-scroll-proportion="0.0" vertical-offset="49" max-vertical-offset="646">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/twelve/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/lab/eight/two/ScoreRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V1/InfixConverter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/six/FileOne.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="689" max-vertical-offset="1394">
-          <caret line="57" column="5" selection-start-line="45" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V1/CharTreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/six/FileThree.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2014218" vertical-offset="17" max-vertical-offset="629">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="427">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V1/CharStack.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/six/FileTwo.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="782">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="427">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/twelve/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/six/GameOfLifeDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="901">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.23017408" vertical-offset="0" max-vertical-offset="969">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V1/CharTree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/lab/eight/two/ScoreSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1246943" vertical-offset="1274" max-vertical-offset="2448">
-          <caret line="110" column="5" selection-start-line="72" selection-start-column="3" selection-end-line="110" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="531" max-vertical-offset="1071">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/michaelalizzzyyy/school/programming/assignment/fourteen/FinalNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/six/GameOfLife.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="731">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="952" max-vertical-offset="2890">
+          <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="104" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cousCous/school/programming/assignment/fourteen/BinaryExpressionTree.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4121212" vertical-offset="0" max-vertical-offset="1734">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1973" max-vertical-offset="23715">
+          <caret line="149" column="11" selection-start-line="149" selection-start-column="11" selection-end-line="149" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cousCous/school/programming/assignment/fourteen/postFix.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/test/WriteToFile/ImageFile/ImageWriting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.09912536" vertical-offset="102" max-vertical-offset="1802">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.21683674" vertical-offset="0" max-vertical-offset="595">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cousCous/school/programming/assignment/fourteen/RunnerClass.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/test/WriteToFile/HighScores/HighScores.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49562684" vertical-offset="0" max-vertical-offset="510">
-          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="272">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/cousCous/school/programming/assignment/fourteen/stringNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/test/WriteToFile/TextFile/FileToWrite.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09912536" vertical-offset="0" max-vertical-offset="561">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/thirteen/Tree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Stats/highscores">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8017493" vertical-offset="1170" max-vertical-offset="2788">
-          <caret line="93" column="5" selection-start-line="81" selection-start-column="4" selection-end-line="93" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="272">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/thirteen/RunTree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/Snake.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14868805" vertical-offset="0" max-vertical-offset="1190">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="2907" max-vertical-offset="3536">
+          <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/michaelalizzzyyy/school/programming/assignment/fourteen/FinalTree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/View/SnakeGameFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6357143" vertical-offset="179" max-vertical-offset="3111">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="2176" max-vertical-offset="2312">
+          <caret line="128" column="5" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/twelve/Queue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/JavaSnake.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1190">
-          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="476">
+          <caret line="10" column="142" selection-start-line="10" selection-start-column="142" selection-end-line="10" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="2601">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/GameRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3312102" vertical-offset="712" max-vertical-offset="1547">
+          <caret line="51" column="27" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/GridPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.26849315" vertical-offset="676" max-vertical-offset="1683">
+          <caret line="44" column="69" selection-start-line="44" selection-start-column="69" selection-end-line="44" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Stats/HighscoreManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6739726" vertical-offset="1318" max-vertical-offset="1802">
+          <caret line="99" column="29" selection-start-line="99" selection-start-column="29" selection-end-line="99" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/StartButtonActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="485" max-vertical-offset="1190">
+          <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/SwitchPanels/ButtonActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/SwitchPanels/StartPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7" max-vertical-offset="561">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/SwitchPanels/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1173">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/SwitchPanels/GamePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/Games2D/CellTest/CellTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/lang/Object.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/Games2D/MapEditor/Editor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4455645" vertical-offset="0" max-vertical-offset="9061">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="2601">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/test/WriteToFile/TextFile/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="137" max-vertical-offset="731">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/test/WriteToFile/TextFile/EditFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="84" max-vertical-offset="816">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/test/WriteToFile/HighScores/HighScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1016" max-vertical-offset="1649">
+          <caret line="83" column="8" selection-start-line="83" selection-start-column="8" selection-end-line="87" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/michaelalizzzyyy/school/programming/assignment/fourteen/Runner.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/FramePanelCombo/PicturePanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V2/Tree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/FramePanelCombo/SecondPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3299" max-vertical-offset="5355">
-          <caret line="211" column="112" selection-start-line="211" selection-start-column="112" selection-end-line="211" selection-end-column="112" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V2/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/FramePanelCombo/FirstPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="685" max-vertical-offset="1003">
-          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="295" max-vertical-offset="935">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V2/TwoChildNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/ComponentExamples/JTextFieldDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="974" max-vertical-offset="1479">
-          <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="952">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V2/Runner.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/CodependentFrames/FrameMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1038" max-vertical-offset="2278">
-          <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="19" max-vertical-offset="1564">
+          <caret line="74" column="11" selection-start-line="74" selection-start-column="11" selection-end-line="74" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pitstop/school/programming/assignment/fourteen/V2/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/CodependentFrames/PanelOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6181818" vertical-offset="0" max-vertical-offset="2108">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="816">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/PanelsWorkingTogether/InputPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="19" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/SnakeAttempt/BetterSnakeWithBri/Game/Model/ControlPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.79242176" vertical-offset="1484" max-vertical-offset="2091">
+          <caret line="68" column="41" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/ComponentExamples/JTextFieldDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.047775947" vertical-offset="141" max-vertical-offset="833">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/Frames/FramePanelCombo/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.542683" vertical-offset="936" max-vertical-offset="1530">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/test/Wall/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1534#1535#0" expanded="true" />
+            <element signature="e#1559#1560#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/test/Wall/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3899371" vertical-offset="63" max-vertical-offset="442">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/pitstop/learning/test/Wall/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6520376" vertical-offset="0" max-vertical-offset="2125">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

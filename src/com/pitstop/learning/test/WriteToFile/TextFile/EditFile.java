@@ -16,7 +16,8 @@ public class EditFile {
         try{
             // input the file content to the string
             BufferedReader bufferedReader = new BufferedReader(new FileReader(file));
-            String line;String input = "";
+            String line;
+            String input = "";
 
             while ((line = bufferedReader.readLine()) != null) input += line + '\n';
 
